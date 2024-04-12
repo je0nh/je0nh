@@ -8,6 +8,7 @@
 
 :seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> 수료
 <br>
+<br>
 
 ## :computer: Tech Stack
 
@@ -33,6 +34,8 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<br>
+<br>
 
 ## :hatched_chick: ect..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je0nh&layout=compact)
