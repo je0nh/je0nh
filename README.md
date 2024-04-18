@@ -6,7 +6,7 @@
 개발자가 되고싶은 이정훈입니다. <br>
 <br>
 
-:seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> 수료
+:seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료
 <br>
 <br>
 
