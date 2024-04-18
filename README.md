@@ -1,6 +1,6 @@
 <div align="center">
 
-## :sparkles: Introduction:
+## :sparkles: Introduction
 
 안녕하세요! <br>
 개발자가 되고싶은 이정훈입니다. <br>
