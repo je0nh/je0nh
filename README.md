@@ -37,7 +37,7 @@
 <br>
 <br>
 
-## :hatched_chick: ect..
+## :hatched_chick: etc..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je0nh&layout=compact)
 
 
