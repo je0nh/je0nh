@@ -3,7 +3,7 @@
 ## :sparkles: Introduction
 
 안녕하세요! <br>
-개발자가 되고싶은 이정훈입니다. <br>
+백엔드 개발자를 준비중인 이정훈입니다. <br>
 <br>
 
 :seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료
@@ -14,27 +14,23 @@
 
 :books: **[Language]** <br>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=python,java&theme=light)](https://skillicons.dev)
 
-:file_folder: **[Data]** <br>
+:floppy_disk: **[Back-end]** <br>
 <br>
-<img src="https://img.shields.io/badge/ApacheAirflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/>
-<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=spring,postgresql&theme=light)](https://skillicons.dev)
+
+:tv: **[Front-end]** <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue&theme=light)](https://skillicons.dev)
+
+:file_folder: **[Infrastructure]** <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,githubactions&theme=light)](https://skillicons.dev)
 
 :rocket: **[Tools]** <br>
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=github,notion&theme=light)](https://skillicons.dev)
 <br>
 
 ## :hatched_chick: etc..
