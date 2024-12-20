@@ -6,9 +6,8 @@
 백엔드 개발자를 준비중인 이정훈입니다. <br>
 <br>
 
-:seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료
-:seedling: 24.11 ~  <ins>**엔씨데이터**</ins> 빅데이터 개발팀 / 연구원
-<br>
+:seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료 <br>
+:notebook: 24.11 ~  <ins>**엔씨데이터**</ins> 빅데이터 개발팀 / 연구원 <br>
 <br>
 
 ## :computer: Tech Stack
