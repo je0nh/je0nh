@@ -7,6 +7,7 @@
 <br>
 
 :seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료
+:seedling: 24.11 ~  <ins>**엔씨데이터**</ins> 빅데이터 개발팀 / 연구원
 <br>
 <br>
 
