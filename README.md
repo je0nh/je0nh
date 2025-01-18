@@ -3,7 +3,7 @@
 ## :sparkles: Introduction
 
 안녕하세요! <br>
-백엔드 개발자를 준비중인 이정훈입니다. <br>
+빅데이터 개발자 이정훈입니다. <br>
 <br>
 
 :seedling: 23.3 ~ 23.12 <ins>**이어드림스쿨 3기**</ins> DE track 수료 <br>
